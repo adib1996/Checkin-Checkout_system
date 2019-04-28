@@ -1,0 +1,104 @@
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbprojResolveAssemblyReference.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Accounts.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Clock.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Reports.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\AddAccount.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\EditAccount.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\MainWindow.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\AdminSM.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\LibrarianSM.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Application.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem_Content.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem_MarkupCompile.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem_MarkupCompile.lref
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\Database\LibraryDatabase.mdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.exe.config
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.exe
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.pdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.xml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Application.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Accounts.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Clock.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Reports.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\AddAccount.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\EditAccount.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\MainWindow.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\AdminSM.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\LibrarianSM.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Style\Scrollbar.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.g.resources
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.Resources.resources
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.GenerateResource.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.CoreCompileInputs.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.CopyComplete
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.exe
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.xml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.pdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\LoginForm.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\LoginForm.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\My Project\Blank.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\My Project\Blank.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\DeleteAccount.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\DeleteAccount.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Help.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\Feedback.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Help.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\Feedback.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.ResolveComReference.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\About.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Projects\Code\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\About.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\Database\LibraryDatabase.mdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.exe.config
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.exe
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.pdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\EasyKeyLibrarySystem.xml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbprojResolveAssemblyReference.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.ResolveComReference.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Accounts.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Clock.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Help.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Reports.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\About.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\AddAccount.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\DeleteAccount.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\EditAccount.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\Feedback.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\LoginForm.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\MainWindow.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\My Project\Blank.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\AdminSM.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\LibrarianSM.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Application.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem_Content.g.vb
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem_MarkupCompile.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem_MarkupCompile.lref
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Application.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Accounts.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Clock.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Help.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Content\Reports.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\About.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\AddAccount.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\DeleteAccount.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\EditAccount.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\Feedback.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Form\LoginForm.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\MainWindow.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\My Project\Blank.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\AdminSM.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\SideMenu\LibrarianSM.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\Style\Scrollbar.baml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.g.resources
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.Resources.resources
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.GenerateResource.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.CoreCompileInputs.cache
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.vbproj.CopyComplete
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.exe
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.xml
+C:\Users\jozhuatwx\OneDrive - Asia Pacific University\Documents\Visual Studio 2017\Source\Repos\EasyKeyLibrarySystem\EasyKeyLibrarySystem\obj\Debug\EasyKeyLibrarySystem.pdb

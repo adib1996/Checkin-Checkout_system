@@ -1,0 +1,27 @@
+Code Standardization:
+Example:
+-----------------
+| E | ACC | 002 |
+-----------------
+
+E - Error
+ACC - Accounts
+002 - Number
+
+---------------
+Error Codes:
+DTB (Database)
+001 - Database Error
+
+LOG (Login)
+001 - Wrong TP Number and/or password
+
+ACC (Accounts)
+001 - TP Number exists in database
+002 - Password has less than 8 characters
+003 - Password and reconfirmed password do not match
+
+---------------
+Warning Codes:
+ACC (Acounts)
+001 - Same TP Number and password

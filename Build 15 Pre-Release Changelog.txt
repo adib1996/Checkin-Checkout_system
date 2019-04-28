@@ -1,0 +1,38 @@
+<Build 15 Pre-Release Changelog>
+1. Catching Error
+- Beginning to catch some errors and place codes for them
+
+2. Clock
+- Fixed the memory consumption issue with clock updating every second, it's back to updating per second now (But decided not to display)
+- Clock In/ Out Hours and minutes now auto selects nearest time (Round off ±7 minutes)
+- Duty will now display 'Trainee' but remains disabled for Trainee accounts
+- Removed 8:00 and 8:15 as clock-in possibilities
+
+3. Account
+- Added warning when TP Number is also used for password
+- Fixed bug that requires password to have a minimum length when editing even when checked not updating password
+
+<Future Changes/ Features>
+(These are planned but it's dependant on its viability)
+1. Database will be password-protected to prevent unauthorised access
+2. Clock in/out for lunchbreak
+3. Total hours in the month (For user and admin)
+4. Help page
+5. Timetable page
+6. Booking page
+7. Options to edit 'Duty', 'Role' and time requirement (grace period)
+8. Error logs
+
+<Known Bugs/ Errors>
+1. Reports
+- Deleted account's logs is viewable in the 'View all' datagrid view (Will look into options on how to keep it separated but not deleted)
+- Exported file contains the date in the time section and vice versa
+- Logs are not cleared after a month making exporting the CSV file larger and larger
+
+2. User Interface
+- Side menu's darken background just disappears immediately instead of fading out
+- Window shell options (Drag, maximize, minimize, restore) are behind the forms and are not functional
+- Maximising a screen actually makes it full screen, making the task bar inaccessible
+
+3. About
+- Logo does not show when running

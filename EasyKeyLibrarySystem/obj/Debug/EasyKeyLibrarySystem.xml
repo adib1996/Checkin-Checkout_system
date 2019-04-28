@@ -1,0 +1,213 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EasyKeyLibrarySystem
+</name>
+</assembly>
+<members>
+<member name="T:EasyKeyLibrarySystem.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EasyKeyLibrarySystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Accounts">
+<summary>
+Accounts
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Accounts.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Clock">
+<summary>
+Clock
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Clock.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Help">
+<summary>
+Help
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Help.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Reports">
+<summary>
+Reports
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Reports.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.About">
+<summary>
+About
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.About.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.DeleteAccount">
+<summary>
+DeleteAccount
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.DeleteAccount.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Feedback">
+<summary>
+Feedback
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Feedback.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.AddAccount">
+<summary>
+AddAccount
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.AddAccount.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.EditAccount">
+<summary>
+EditAccount
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.EditAccount.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.LoginForm">
+<summary>
+LoginForm
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.LoginForm.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Blank">
+<summary>
+Blank
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Blank.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.AdminSM">
+<summary>
+AdminSM
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.AdminSM.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.LibrarianSM">
+<summary>
+LibrarianSM
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.LibrarianSM.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:EasyKeyLibrarySystem.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:EasyKeyLibrarySystem.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

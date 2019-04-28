@@ -1,0 +1,166 @@
+﻿<Page x:Class="Clock"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasyKeyLibrarySystem"
+      mc:Ignorable="d" 
+      Foreground="White"
+      d:DesignHeight="485" d:DesignWidth="725"
+      Title="Clock">
+
+    <StackPanel Margin="20 15 20 0">
+        <!-- To store TPNumber, Name & Role data -->
+        <TextBlock x:Name="TPNumber" Visibility="Collapsed"/>
+        <TextBlock x:Name="Name" Visibility="Collapsed"/>
+        <TextBlock x:Name="Role" Visibility="Collapsed"/>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel>
+                <!-- Clock In -->
+                <StackPanel Orientation="Horizontal">
+                    <Viewbox Width="50" Height="50" Margin="10 10 5 10">
+                        <Canvas Width="24" Height="24">
+                            <Path Data="M2.21,0.79L0.79,2.21L4.8,6.21L3,8H8V3L6.21,4.8M12,8C8.14,8 5,11.13 5,15A7,7 0 0,0 12,22C15.86,22 19,18.87 19,15A7,7 0 0,0 12,8M12,10.15C14.67,10.15 16.85,12.32 16.85,15A4.85,4.85 0 0,1 12,19.85C9.32,19.85 7.15,17.68 7.15,15A4.85,4.85 0 0,1 12,10.15M11,12V15.69L14.19,17.53L14.94,16.23L12.5,14.82V12" Fill="White" />
+                        </Canvas>
+                    </Viewbox>
+                    <TextBlock Text="Clock In" FontSize="22" Margin="20 10 0 10" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Hours" FontSize="13" Margin="10 10 10 10"/>
+                    <TextBlock Text="Minutes" FontSize="13" Margin="50 10 10 10"/>
+                    <TextBlock Text="Duty" FontSize="13" Margin="50 10 10 10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox x:Name="ClockInHours" Width="65" FontSize="14" FontWeight="Thin" Margin="10" SelectionChanged="TimeValidation">
+                        <ComboBoxItem Content="08"/>
+                        <ComboBoxItem Content="09"/>
+                        <ComboBoxItem Content="10"/>
+                        <ComboBoxItem Content="11"/>
+                        <ComboBoxItem Content="12"/>
+                        <ComboBoxItem Content="13"/>
+                        <ComboBoxItem Content="14"/>
+                        <ComboBoxItem Content="15"/>
+                        <ComboBoxItem Content="16"/>
+                        <ComboBoxItem Content="17"/>
+                        <ComboBoxItem Content="18"/>
+                        <ComboBoxItem Content="19"/>
+                        <ComboBoxItem Content="20"/>
+                    </ComboBox>
+                    <ComboBox x:Name="ClockInMinutes" Width="65" FontSize="14" FontWeight="Thin" Margin="20 10 10 10">
+                        <ComboBoxItem Content="00"/>
+                        <ComboBoxItem Content="15"/>
+                        <ComboBoxItem Content="30"/>
+                        <ComboBoxItem Content="45"/>
+                    </ComboBox>
+                    <ComboBox x:Name="ClockInDuty" Width="125" FontSize="14" FontWeight="Thin" Margin="30 10 10 10">
+                        <ComboBoxItem Content="Counter Duty"/>
+                        <ComboBoxItem Content="Stock Check"/>
+                        <ComboBoxItem Content="Book Processing"/>
+                        <ComboBoxItem Content="Shelving"/>
+                        <ComboBoxItem Content="Replacement"/>
+                        <ComboBoxItem Content="Extra Work"/>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="ClockedInText" Text="You've clocked in at" Margin="20 20 0 20" Width="100" FontWeight="Thin" VerticalAlignment="Center" TextAlignment="Center" Visibility="Hidden"/>
+                    <TextBlock x:Name="ClockedInTime" Text="1200" Margin="5 20 5 20" Width="35" FontSize="14" VerticalAlignment="Center" TextAlignment="Center" Visibility="Hidden"/>
+                    <TextBlock x:Name="ClockedInHours" Text="hours" Margin="0 20 5 20" Width="30" FontWeight="Thin" VerticalAlignment="Center" Visibility="Hidden"/>
+                    <Button x:Name="ClockInButton" Content="Clock In" FontSize="12" Margin="30 20 0 20" Height="30" Width="90" Background="#FF404450" Foreground="White" Click="ClockIn"/>
+                </StackPanel>
+
+                <!-- Clock Out -->
+                <StackPanel Orientation="Horizontal">
+                    <Viewbox Width="50" Height="50" Margin="10 10 5 10">
+                        <Canvas Width="24" Height="24">
+                            <Path Data="M18,1L19.8,2.79L15.79,6.79L17.21,8.21L21.21,4.21L23,6V1M12,8C8.14,8 5,11.13 5,15A7,7 0 0,0 12,22C15.86,22 19,18.87 19,15A7,7 0 0,0 12,8M12,10.15C14.67,10.15 16.85,12.32 16.85,15A4.85,4.85 0 0,1 12,19.85C9.32,19.85 7.15,17.68 7.15,15A4.85,4.85 0 0,1 12,10.15M11,12V15.69L14.19,17.53L14.94,16.23L12.5,14.82V12" Fill="White" />
+                        </Canvas>
+                    </Viewbox>
+                    <TextBlock Text="Clock Out" FontSize="22" Margin="20 10 0 10" VerticalAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Hours" FontSize="13" Margin="10 10 10 10"/>
+                    <TextBlock Text="Minutes" FontSize="13" Margin="50 10 10 10"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox x:Name="ClockOutHours" Width="65" FontSize="14" FontWeight="Thin" Margin="10">
+                        <ComboBoxItem Content="08"/>
+                        <ComboBoxItem Content="09"/>
+                        <ComboBoxItem Content="10"/>
+                        <ComboBoxItem Content="11"/>
+                        <ComboBoxItem Content="12"/>
+                        <ComboBoxItem Content="13"/>
+                        <ComboBoxItem Content="14"/>
+                        <ComboBoxItem Content="15"/>
+                        <ComboBoxItem Content="16"/>
+                        <ComboBoxItem Content="17"/>
+                        <ComboBoxItem Content="18"/>
+                        <ComboBoxItem Content="19"/>
+                        <ComboBoxItem Content="20"/>
+                    </ComboBox>
+                    <ComboBox x:Name="ClockOutMinutes" Width="65" FontSize="14" FontWeight="Thin" Margin="20 10 10 10">
+                        <ComboBoxItem Content="00"/>
+                        <ComboBoxItem Content="15"/>
+                        <ComboBoxItem Content="30"/>
+                        <ComboBoxItem Content="45"/>
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock x:Name="ClockedOutText" Text="You've clocked out at" Margin="10 20 0 20" Width="110" FontWeight="Thin" VerticalAlignment="Center" TextAlignment="Center" Visibility="Hidden"/>
+                    <TextBlock x:Name="ClockedOutTime" Text="1800" Margin="5 20 5 20" Width="35" FontSize="14" VerticalAlignment="Center" TextAlignment="Center" Visibility="Hidden"/>
+                    <TextBlock x:Name="ClockedOutHours" Text="hours" Margin="0 20 5 20" Width="30" FontWeight="Thin" VerticalAlignment="Center" Visibility="Hidden"/>
+                    <Button x:Name="ClockOutButton" Content="Clock Out" FontSize="12" Margin="30 20 0 20" Height="30" Width="90" Background="#FF404450" Foreground="White" Click="ClockOut"/>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel>
+                <!-- Current Time -->
+                <StackPanel Orientation="Horizontal">
+                    <Viewbox Width="50" Height="50" Margin="50 25 10 25">
+                        <Canvas Width="24" Height="24">
+                            <Path Data="M12,20A8,8 0 0,0 20,12A8,8 0 0,0 12,4A8,8 0 0,0 4,12A8,8 0 0,0 12,20M12,2A10,10 0 0,1 22,12A10,10 0 0,1 12,22C6.47,22 2,17.5 2,12A10,10 0 0,1 12,2M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z" Fill="White" />
+                        </Canvas>
+                    </Viewbox>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="Current Time" FontWeight="Thin" Margin="10 0 0 0" VerticalAlignment="Center"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock x:Name="CurrentTimeText" Text="12:30" FontSize="30" Margin="10 0 0 0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Hours" FontWeight="Thin" Margin="10 0 55 5" VerticalAlignment="Bottom"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+                <!-- Total Hours -->
+                <!-- This Month -->
+                <StackPanel Orientation="Horizontal" Margin="0 30 0 30" Visibility="Hidden">
+                    <Viewbox Width="50" Height="50" Margin="50 25 10 25">
+                        <Canvas Width="24" Height="24">
+                            <Path Data="M12,1C8.14,1 5,4.14 5,8A7,7 0 0,0 12,15C15.86,15 19,11.87 19,8C19,4.14 15.86,1 12,1M12,3.15C14.67,3.15 16.85,5.32 16.85,8C16.85,10.68 14.67,12.85 12,12.85A4.85,4.85 0 0,1 7.15,8A4.85,4.85 0 0,1 12,3.15M11,5V8.69L14.19,10.53L14.94,9.23L12.5,7.82V5M4,16V24H6V21H18V24L22,20L18,16V19H6V16" Fill="White" />
+                        </Canvas>
+                    </Viewbox>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="Total Hours (This Month)" FontWeight="Thin" Margin="10 0 0 0" VerticalAlignment="Center"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock x:Name="TotalHoursThisMonth" Text="24:30" FontSize="30" Margin="10 0 0 0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Hours" FontWeight="Thin" Margin="10 0 55 5" VerticalAlignment="Bottom"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+                <!-- Today -->
+                <StackPanel x:Name="TotalHoursTodayGroup" Orientation="Horizontal" Margin="0 30 0 30" Visibility="Hidden">
+                    <Viewbox Width="50" Height="50" Margin="50 25 10 25">
+                        <Canvas Width="24" Height="24">
+                            <Path Data="M12,1C8.14,1 5,4.14 5,8A7,7 0 0,0 12,15C15.86,15 19,11.87 19,8C19,4.14 15.86,1 12,1M12,3.15C14.67,3.15 16.85,5.32 16.85,8C16.85,10.68 14.67,12.85 12,12.85A4.85,4.85 0 0,1 7.15,8A4.85,4.85 0 0,1 12,3.15M11,5V8.69L14.19,10.53L14.94,9.23L12.5,7.82V5M15,16V19H3V21H15V24L19,20M19,20V24H21V16H19" Fill="White" />
+                        </Canvas>
+                    </Viewbox>
+                    <StackPanel VerticalAlignment="Center">
+                        <TextBlock Text="Total Hours (Today)" FontWeight="Thin" Margin="10 0 0 0" VerticalAlignment="Center"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock x:Name="TotalHoursToday" Text="06:30" FontSize="30" Margin="10 0 0 0" VerticalAlignment="Center"/>
+                            <TextBlock Text="Hours" FontWeight="Thin" Margin="10 0 55 5" VerticalAlignment="Bottom"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Page>
